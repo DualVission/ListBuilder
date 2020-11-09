@@ -1,0 +1,21 @@
+Inseam|31"|1 legs|1|
+Waist|33"|1 legs|2|
+General Pants|Medium|1 legs|0|
+General Shirt|Medium|0 torso|0|
+Neck|18"|0 torso|3|
+Chest|33"|0 torso|2|
+Sleeve|38"|0 torso|4|
+Sweatshirt|Large|0 torso|1|
+Shoe (Mens)|8.5|2 feet|0|
+Sock (Mens)|Large|2 feet|1|
+Length|9.25"|2 feet|2|
+Width|4.5"|2 feet|3|
+Space0| |3 space|0|
+Favorite Chocolate|Kit Kat|4 stock|0|
+Favorite Fruit Candy|Swedish Fish|4 stock|1|
+Favorite Color|Red|4 stock|2|
+Great Accent Colors|Blue, Grey, Black|4 stock|3|
+Least Favorite Colors|Navy, Brown, White|4 stock|4|
+Space1| |5 space|0|
+Desired Unlisted Attire|Formal Wear|6 misc|0|
+Desired Unlisted Homegoods|Poster Frames|6 misc|1|

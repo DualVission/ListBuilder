@@ -1,0 +1,43 @@
+bdbk|Boundary Break Tee|24.99|False|
+bpfd|Buff Foodie Tee|22.99|False|
+pncm|Kodak 360º Camera|179.99|True|
+mbpc|15" MacBook Pro Case|14.99|True|
+wbcm|1080p Webcam|99.59|True|
+ckgs|Green Screen|164.99|True|
+ampf|Pop Filter|8.99|True|
+essd|External Hard Drive|79.99|True|
+amsm|Shock Mount|27.99|True|
+dspl|27" Display (HDMI,DVI,DPI)|124.99|False|
+sutm|Steven Universe: The Movie|14.96|True|
+sus2|Steven Universe: Season 2|24.99|True|
+btft|The Back to the Future Trilogy|17.96|True|
+sus1|Steven Universe: Season 1|15.99|True|
+kzgt|Kurzgesagt Tee|25.9|False|
+rtcr|Country Roads Tee|24.99|False|
+mwep|Mweep Tee|23.99|False|
+pzht|Pizza Heart Tee|25.0|False|
+kbct|Killer Bunnies: Creature Feature|13.4|True|
+kbps|Killer Bunnies: Pumpkin Spice|15.0|True|
+kbln|Killer Bunnies: London|13.99|True|
+sbtc|Between Two Cities|29.61|True|
+kbcs|Killer Bunnies: Caramel Swirl|10.59|True|
+kbcq|Killer Bunnies: Conquest Adventure|38.2|True|
+kbft|Killer Bunnies: Fantastic|15.0|True|
+pk3d|Pikmin 3: Deluxe|59.25|False|
+kmdr|Katamari Damacy Reroll|19.33|True|
+pmok|Paper Mario: Origami King|57.11|True|
+jcch|Switch Controller Charging Station|14.99|True|
+feth|Fire Emblem: Three Houses|49.94|True|
+lsws|Lego Star Wars: The Skywalker Saga|59.99|True|
+gccs|Gamecube Controllers|15.99|True|
+bstc|Bioshock: The Collection|29.83|True|
+tmse|Tokyo Mirage Sessions ♯FE Encore|55.68|True|
+gcca|Gamecube Controller Adapter|14.98|True|
+pmdd|Pokémon Mystery Dungeon DX|56.9|True|
+mfdb|Dolphin Bar|34.99|True|
+nsdk|Nintendo Switch Dock|89.99|True|
+cawb|Contigo Water Bottle 24 oz|11.99|True|
+susb|Right-Angle USB Micro Cable|6.26|True|
+stgt|Steins;Gate: The Complete Series|40.94|True|
+sgee|Steins;Gate ELITE|44.99|True|
+jcpo|Joy-Cons (Purple / Orange)|69|True|
